@@ -8,21 +8,20 @@
 
 **Code will be published soon....**
 
-
 <p align="center">
-  <img src="figures/intro.png" width="600" />
+  <img src="imgs/intro.png" width="600" />
 </p>
 
 <p align="center">
-  <img src="figures/masking.png" width="600" />
+  <img src="imgs/masking.png" width="600" />
 </p>
 
 <p align="center">
-  <img src="figures/qualitative.png" width="600" />
+  <img src="imgs/qualitative.png" width="600" />
 </p>
 
 <p align="center">
-  <img src="figures/quantitative.png" width="600" />
+  <img src="imgs/quantitative.png" width="600" />
 </p>
 
 ## Citation
