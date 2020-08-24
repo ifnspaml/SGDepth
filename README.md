@@ -1,4 +1,4 @@
-# [Learning Stereo from Single Images](https://arxiv.org/abs/2008.01484)
+# [Self-Supervised Monocular Depth Estimation: Solving the Dynamic Object Problem by Semantic Guidance](https://arxiv.org/abs/2008.01484)
 
 **[Marvin Klingner](https://www.tu-braunschweig.de/en/ifn/institute/team/sv/klingner), [Jan-Aike Termöhlen](https://www.tu-braunschweig.de/en/ifn/institute/team/sv/termoehlen), Jonas Mikolajczyk, and [Tim Fingscheidt](https://www.tu-braunschweig.de/en/ifn/institute/team/sv/fingscheidt) – ECCV 2020 **
 
