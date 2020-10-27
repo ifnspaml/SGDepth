@@ -50,8 +50,8 @@ As a consequence of the multi-task training, dynamic objects are more clearly sh
 
 |        Model       | Resolution |  Abs Rel | Sq Rel |  RMSE | RMSE log | δ < 1.25 | δ < 1.25^2 | δ < 1.25^3 |
 |:------------------:|:----------:|:-------:|:------:|:-----:|:--------:|----------|------------|------------|
-| [SGDepth only depth](https://drive.google.com/file/d/1Hd5YTIhSMttAVWyE7a08r3GHlHDX1Z46/view?usp=sharing)  | 640x192   | 0.117   | 0.907  | 4.844 | 0.196    | 0.875    | 0.958      | 0.980      |
-| [SGDepth full](https://drive.google.com/file/d/1KMabblEyvIEFKl4yEueiEKTa-LNGKqE2/view?usp=sharing)       | 640x192   | 0.113   | 0.835  | 4.693 | 0.191    | 0.879    | 0.961      | 0.981      |
+| [SGDepth only depth](https://drive.google.com/file/d/1KMabblEyvIEFKl4yEueiEKTa-LNGKqE2/view?usp=sharing)  | 640x192   | 0.117   | 0.907  | 4.844 | 0.196    | 0.875    | 0.958      | 0.980      |
+| [SGDepth full](https://drive.google.com/file/d/1Hd5YTIhSMttAVWyE7a08r3GHlHDX1Z46/view?usp=sharing)       | 640x192   | 0.113   | 0.835  | 4.693 | 0.191    | 0.879    | 0.961      | 0.981      |
 
 
 ### Inference Preview:
