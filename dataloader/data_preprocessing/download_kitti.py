@@ -8,10 +8,9 @@ import numpy as np
 import glob
 import cv2
 
-sys.path.append("../../../")
 import dataloader.file_io.get_path as gp
 import dataloader.file_io.dir_lister as dl
-from dataloader.data_preprocessing.KITTI.kitti_utils import pcl_to_depth_map
+from kitti_utils import pcl_to_depth_map
 
 
 def download_kitti_all(kitti_folder='kitti_download'):
